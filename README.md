@@ -8,3 +8,5 @@ The goal was to create an audiobook player that allows users to:
 ### Features
 - Chapter navigation
 - Play/Pause functionality for audiobooks
+
+![Project page](https://github.com/GuilhermoSilveira1/Change_Audiobook/blob/main/P%C3%A1gina%20do%20projeto.png)
